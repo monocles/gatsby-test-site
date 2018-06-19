@@ -1,7 +1,9 @@
 # Project dependencies
 .cache
+.env
 node_modules
 yarn-error.log
+.gatsby-context.js
 
 # Build directory
 /public
